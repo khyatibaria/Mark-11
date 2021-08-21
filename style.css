@@ -16,17 +16,17 @@
     text-align: center;
     margin: auto;
     padding: 2rem 1rem;
-    height: 60vh;
+    min-height: 50vh;
     width: 60%;
     margin-top: 20rem;
     background-color:#aaff7f;
 }
 
 label{
+    display: block;
     font-size: 2rem;
     font-weight: bold;
     padding: 1rem;
-
 }
 
 input {
@@ -53,8 +53,7 @@ button {
 
 p{
     margin-top: 1rem;
-    padding: 1rem;
-    
+    padding: 1rem;   
 }
 
 #balloon{
